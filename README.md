@@ -87,7 +87,7 @@ CREATE DATABASE LojaDB;
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+https://github.com/MSsantos9/api_loja_pedidos.git
 ```
 
 ---
